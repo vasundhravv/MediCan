@@ -1,6 +1,6 @@
 # MediCan
 
-Medical Chatbot with LLMs, LangChain, Pinecone, Flask &amp; AWS
+Medical Chatbot with LLMs, LangChain, Pinecone, Cohere, Flask &amp; AWS
 
 ## How to run?
 
